@@ -1,0 +1,21 @@
+name: Update Fork
+on:
+  schedule:
+    - cron: '0 */8 * * *'  # Run every 8 hours
+  # Run when manually triggered
+  workflow_dispatch:
+jobs:
+  update-fork:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout target repo
+      uses: actions/checkout@v3
+      
+    - name: Upstream Sync
+      id: sync
+      uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
+      with:
+        target_sync_branch: main
+        target_repo_token: ${{ secrets.GITHUB_TOKEN }}
+        upstream_sync_branch: main
+        upstream_sync_repo: WilliamStar007/ClashX-V2Ray-TopFreeProxy
