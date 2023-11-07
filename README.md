@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Dreamacro/clash/raw/master/docs/logo.png" alt="Clash" width="200">
+  <img src="https://i.postimg.cc/nLxMfDg8/clash.png" alt="Clash" width="200">
   <br>
   ClashX Setup Tutorial
   <br>
@@ -12,7 +12,9 @@
 Tutorial for setting up a [ClashX](https://github.com/yichengchen/clashX) proxy with free subscription links.  
 Feel free to submit an [Issue](https://github.com/WilliamStar007/ClashX-TopFreeProxy/issues) or make a [Pull Request](https://github.com/WilliamStar007/ClashX-TopFreeProxy/pulls)!  
 For V2Ray users, see [V2Ray Setup Tutorial](https://github.com/WilliamStar007/ClashX-TopFreeProxy/blob/main/v2ray.md).  
-For a tutorial in Chinese, see [中文版教程](https://github.com/WilliamStar007/ClashX-TopFreeProxy/blob/main/clash%E4%B8%AD%E6%96%87%E7%89%88.md).
+For a tutorial in Chinese, see [中文版教程](https://github.com/WilliamStar007/ClashX-TopFreeProxy/blob/main/clash%E4%B8%AD%E6%96%87%E7%89%88.md).  
+
+**The original Clash repo has been deleted.**  
 
 # Table of Contents
 * [Installation](#installation)
@@ -22,19 +24,16 @@ For a tutorial in Chinese, see [中文版教程](https://github.com/WilliamStar0
 * [Disclaimer](#disclaimer)
 
 ## Installation
-**Clash**
-* Download **Clash** from [Clash Release](https://github.com/Dreamacro/clash/releases) page.
-* Download **Clash for Windows** from [CFW Release](https://github.com/Fndroid/clash_for_windows_pkg/releases) page.
-
-**ClashX ★**
-* Download **ClashX** from [ClashX Release](https://github.com/yichengchen/clashX/releases) page.
-* Download **ClashX Pro** with enhanced mode and native Apple Silicon support at [AppCenter](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public).
+**Clash · Salute Dreamacro.**
+* Download **Clash for Windows** from [CFW Page](https://www.clashforwindows.net/clash-for-windows-download) page.
+* Download **ClashX** from [WannaFlix](https://wannaflix.com/dl.php?type=d&id=8) page.
+* Download **ClashX Pro** with enhanced mode and native Apple Silicon support at [糖糖のWIKI](https://help.mints7.cc/mac-shi-yong-jiao-cheng/mac-clashx-pro-shi-yong-jiao-cheng).  
 
 ## Subscription Links
 <!-- **Modify the date (if any) in the links to the current date!!** -->
 
 * NodeFree: https://nodefree.org/dy/2023/11/20231106.yaml ★
-* ClashNode: https://clashnode.com/wp-content/uploads/2023/11/20231106.yaml ★
+* ClashNode: https://clashnode.com/wp-content/uploads/2023/11/20231107.yaml ★
 * Mfuu: https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
 * Anaer: https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml ★
 * Pojiezhiyuanjun: https://raw.githubusercontent.com/pojiezhiyuanjun/2023/master/1106clash.yml

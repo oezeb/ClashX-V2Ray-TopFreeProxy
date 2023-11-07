@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Dreamacro/clash/raw/master/docs/logo.png" alt="Clash" width="200">
+  <img src="https://i.postimg.cc/nLxMfDg8/clash.png" alt="Clash" width="200">
   <br>
   ClashX 安装与设置教程
   <br>
@@ -8,6 +8,8 @@
 [ClashX](https://github.com/yichengchen/clashX) 代理安装教程与免费订阅链接获取方式  
 欢迎大家对这个项目提出 [Issues](https://github.com/WilliamStar007/ClashX-TopFreeProxy/issues) 或 [Pull Requests](https://github.com/WilliamStar007/ClashX-TopFreeProxy/pulls)  
 如使用 [V2Ray](https://www.v2ray.com)，可见 [V2Ray 教程](https://github.com/WilliamStar007/ClashX-TopFreeProxy/blob/main/v2ray%E4%B8%AD%E6%96%87%E7%89%88.md)
+
+**Clash源代码已删仓**
 
 # 目录
 * [安装](#安装)
@@ -19,16 +21,16 @@
 ## 安装
 | 应用程序 | 下载链接 | 备注 |
 | ------------- | ------------- | ------------- |
-| Clash | [发布网页](https://github.com/Dreamacro/clash/releases) | 原始程序 |
-| Clash for Windows | [发布网页](https://github.com/Fndroid/clash_for_windows_pkg/releases) | 优化版 |
-| ClashX | [发布网页](https://github.com/yichengchen/clashX/releases) | 优化版 |
-| ClashX Pro ★ | [应用中心](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public) | 拥有增强模式与苹果芯片优化 |
+| Clash | **致敬 Dreamacro** | 原始程序 |
+| Clash for Windows | [CFW](https://www.clashforwindows.net/clash-for-windows-download/) | 优化版 |
+| ClashX | [WannaFlix](https://wannaflix.com/dl.php?type=d&id=8) | 优化版 |
+| ClashX Pro ★ | [糖糖のWIKI](https://help.mints7.cc/mac-shi-yong-jiao-cheng/mac-clashx-pro-shi-yong-jiao-cheng) | 拥有增强模式与苹果芯片优化 |
 
 ## 订阅链接
 <!-- **使用前请修改链接中的日期（如果有的话）至目前日期** -->
 
 * NodeFree: https://nodefree.org/dy/2023/11/20231106.yaml ★
-* ClashNode: https://clashnode.com/wp-content/uploads/2023/11/20231106.yaml ★
+* ClashNode: https://clashnode.com/wp-content/uploads/2023/11/20231107.yaml ★
 * Mfuu: https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
 * Anaer: https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml ★
 * Pojiezhiyuanjun: https://raw.githubusercontent.com/pojiezhiyuanjun/2023/master/1106clash.yml
