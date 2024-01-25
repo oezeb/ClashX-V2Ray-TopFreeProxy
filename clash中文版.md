@@ -33,12 +33,10 @@
 * ClashNode: https://clashnode.com/wp-content/uploads/2024/01/20240124.yaml ★
 * Mfuu: https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
 * Anaer: https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml ★
-* Pojiezhiyuanjun: https://raw.githubusercontent.com/pojiezhiyuanjun/2023/master/1225clash.yml
 * Oslook: https://raw.githubusercontent.com/oslook/clash-freenode/main/clash.yaml
 * Ermaozi: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml ★
 * Learnhard-cn: https://cdn.jsdelivr.net/gh/learnhard-cn/free_proxy_ss@main/clash/clash.provider.yaml
 * Tbbatbb: https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
-* Vveg26: https://raw.githubusercontent.com/vveg26/get_proxy/main/dist/clash.config.yaml
 * OpenRunner: https://raw.githubusercontent.com/openrunner/clash-freenode/main/clash.yaml ★
 * Xrayfree: https://tt.vg/freeclash
 
@@ -62,12 +60,10 @@ https://user-images.githubusercontent.com/89805831/179545223-69177f8e-5f2d-4bd3-
 * ClashNode (https://clashnode.com)
 * Mfuu (https://github.com/mfuu/v2ray)
 * Anaer (https://github.com/anaer/Sub)
-* Pojiezhiyuanjun (https://github.com/pojiezhiyuanjun/2023)
 * Oslook (https://github.com/oslook/clash-freenode)
 * Ermaozi (https://github.com/ermaozi/get_subscribe)
 * Learnhard-cn (https://github.com/learnhard-cn/free_proxy_ss)
 * Tbbatbb (https://github.com/tbbatbb/Proxy)
-* Vveg26 (https://github.com/vveg26/getProxy)
 * OpenRunner (https://github.com/openRunner/clash-freenode)
 * Xrayfree (https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash)
 * Zu1k (https://github.com/zu1k/proxypool)
@@ -78,7 +74,9 @@ https://github.com/gooooooooooooogle/Clash-Config
 https://proxies.bihai.cf 
 https://fq.lonxin.net 
 https://github.com/kxswa/k 
-https://github.com/NiceVPN123/NiceVPN -->
+https://github.com/NiceVPN123/NiceVPN 
+https://github.com/pojiezhiyuanjun/2023 
+https://github.com/vveg26/getProxy -->
 
 ## 免责声明
 * 本项目全部链接来自网络，仅供个人或学习交流使用，严禁用于商业用途
